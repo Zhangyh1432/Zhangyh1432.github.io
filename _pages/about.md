@@ -1,8 +1,7 @@
 ---
 permalink: /
-# title: "Zhang Yihan (张亦涵)"
-title: "test demo"
-author_profile: True
+title: "Zhang Yihan (张亦涵)"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
