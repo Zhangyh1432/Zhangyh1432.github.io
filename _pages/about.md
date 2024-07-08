@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+title: "Zhang Yihan(张亦涵)"
+author_profile: False
 redirect_from: 
   - /about/
   - /about.html
