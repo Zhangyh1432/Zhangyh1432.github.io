@@ -10,7 +10,8 @@ redirect_from:
 
 Introduction
 ======
-Welcome to my personal academic website. I am xxx, a [Your Title] at [Your Institution]. My research focuses on [Your Research Focus]. I have a passion for [Your Academic Interests], and I aim to contribute to the field through innovative research and dedicated teaching.
+I am currently a Ph.D. student in the Department of Automation, pursuing my degree at the University of Science and Technology of China (USTC). Before starting my Ph.D. journey, I received my Bachelor's degree in Electronic Information Engineering from the School of Information Science and Technology at USTC in 2022. I am a self-motivated individual with a strong passion for scientific research. My current research interests include AI for Science, particularly in Chemistry and Bioinformatics, as well as Large Language Models (LLMs) for Science. I am always open to collaborations with like-minded partners.
+
 
 Research Interest
 ======
