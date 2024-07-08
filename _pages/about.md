@@ -10,12 +10,13 @@ redirect_from:
 
 Introduction
 ======
-I am currently a Ph.D. student in the Department of Automation, pursuing my degree at the University of Science and Technology of China (USTC). Before starting my Ph.D. journey, I received my Bachelor's degree in Electronic Information Engineering from the School of Information Science and Technology at USTC in 2022. I am a self-motivated individual with a strong passion for scientific research. My current research interests include AI for Science, particularly in Chemistry and Bioinformatics, as well as Large Language Models (LLMs) for Science. I am always open to collaborations with like-minded partners.
+I am currently a Ph.D. student of the Department of Automation at the University of Science and Technology of China (USTC). Before starting my Ph.D. journey, I received my Bachelor's degree in Electronic Information Engineering from the School of Information Science and Technology at USTC in 2022. 
 
+My current research interests include AI for Science, particularly in Chemistry and Bioinformatics, as well as Large Language Models (LLMs) for Science. 
 
 Research Interest
 ======
-My primary research interests include:
+
 - **Research Area 1:** Description of your research area 1.
 - **Research Area 2:** Description of your research area 2.
 - **Research Area 3:** Description of your research area 3.
